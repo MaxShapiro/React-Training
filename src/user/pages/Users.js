@@ -7,7 +7,7 @@ const Users = () => {
     {
       id: "u1",
       name: "Max Shapiro",
-      image: "https://picsum.photos/2000",
+      image: "https://picsum.photos/200",
       places: 3,
     },
   ];
