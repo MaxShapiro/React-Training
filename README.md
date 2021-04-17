@@ -1,4 +1,5 @@
 This is a part of an ongoing full stack training
+
 This project is under development and is written using MongoDB, Express, React and nodejs
 
 An app that allows multiple users share their favorite locations.
